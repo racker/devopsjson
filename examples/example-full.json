@@ -117,6 +117,12 @@
         "accountId": "22",
         "appid": "42",
         "apikey": "__external__"
+    },
+    "dreadnot": {
+      "url": "dreadnot.k1k.me",
+      "stacks": [{"stack_name": ["zone1"]}],
+      "username": "__external__",
+      "password": "__external__"
     }
   },
   "dependent_services": [
