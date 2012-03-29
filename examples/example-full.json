@@ -121,8 +121,8 @@
     "dreadnot": {
       "url": "dreadnot.k1k.me",
       "stacks": [{"stack_name": ["zone1"]}],
-      "username": "__external__",
-      "password": "__external__"
+      "username": "asdf",
+      "password": "zxcv"
     }
   },
   "dependent_services": [
