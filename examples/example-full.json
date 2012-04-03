@@ -119,7 +119,7 @@
         "apikey": "__external__"
     },
     "dreadnot": {
-      "url": "dreadnot.k1k.me",
+      "url": "127.0.0.1",
       "stacks": [{"stack_name": ["zone1"]}],
       "username": "asdf",
       "password": "zxcv"
