@@ -199,13 +199,13 @@ The spec does not cover how consumers handle external credentials. For example, 
   "events": [{
       "name": "Private Beta",
       "description": "10 selected customers",
-      "timestamp": 1330626349,
+      "timestamp": "2012-04-11T02:42:50.094Z",
       "related_links": [
           "http://bugtracker.com/mytickets?milestone=privatebeta"
       ]}, {
       "name": "Design Summit July 2012",
       "description": "This is a working session to figure out project Earth"",
-      "timestamp": 1341205200,
+      "timestamp": "2012-04-11T02:42:50.094Z",
       "related_links": [
           "http://eventbrite.com/register?event=123"
       ]
