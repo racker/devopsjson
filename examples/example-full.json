@@ -107,7 +107,7 @@
         "auth": "user:pass"
     },
     "github": {
-        "url": "http://github.com",
+        "url": "https://api.github.com",
         "org": "racker",
         "repo": "gutsy",
         "username": "xxx",
