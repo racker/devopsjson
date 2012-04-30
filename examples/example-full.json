@@ -123,6 +123,10 @@
       "stacks": [{"stack_name": ["zone1"]}],
       "username": "asdf",
       "password": "zxcv"
+    }, 
+    "highscores": {
+      "url": "localhost",
+      "port": 4949
     }
   },
   "dependent_services": [
