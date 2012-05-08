@@ -119,14 +119,13 @@
         "apikey": "__external__"
     },
     "dreadnot": {
-      "url": "127.0.0.1",
+      "host": "127.0.0.1",
       "stacks": [{"stack_name": ["zone1"]}],
       "username": "asdf",
       "password": "zxcv"
     }, 
     "highscores": {
-      "url": "localhost",
-      "port": 4949
+      "project": "Full"
     }
   },
   "dependent_services": [
