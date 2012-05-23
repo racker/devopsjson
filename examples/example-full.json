@@ -3,7 +3,7 @@
   "debug": false,
   "description": "Devops JSON Dashboard",
   "devops_version": "0.2",
-  "devopsJSON_URL": "https://github.example.com/Organization/project/raw/master/devops.json",
+  "devopsJSON_URL": "https://github.example.com/Organization/project/blob/master/devops.json",
   "tags": [
     "javascript",
     "express",

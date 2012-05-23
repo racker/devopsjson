@@ -2,7 +2,7 @@
   "name": "Simple Service",
   "description": "A simple DevOps JSON example",
   "devops_version": "0.2",
-  "devopsJSON_URL": "https://github.example.com/Organization/project/raw/master/devops.json",
+  "devopsJSON_URL": "https://github.example.com/Organization/project/blob/master/devops.json",
   "tags": ["fun", "json"],
   "contacts": [
     {
