@@ -136,7 +136,7 @@
   "events": [{
       "name": "Private Beta",
       "description": "10 selected customers",
-      "timestamp": 1330626349,
+      "timestamp": "2012-04-11T02:42:50.094Z",
       "related_links": [
           "http://bugtracker.com/mytickets?milestone=privatebeta"
       ]}, {
