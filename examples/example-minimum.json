@@ -1,6 +1,7 @@
 {
   "name": "Minimum Viable Product",
   "description": "Example of minimum requirements of devops JSON",
+  "devops_version": "0.2",
   "contacts": [
     {
       "team_name": "Team 1",

@@ -1,7 +1,9 @@
 {
-  "name": "Gutsy",
+  "name": "ProjectName",
   "debug": false,
   "description": "Devops JSON Dashboard",
+  "devops_version": "0.2",
+  "devopsJSON_URL": "https://github.example.com/Organization/project/blob/master/devops.json",
   "tags": [
     "javascript",
     "express",
@@ -50,15 +52,15 @@
     }
   ],
   "links": {
-    "code": "https://github.example.com/gutsy/gutsy",
-    "docs": "https://github.example.com/gutsy/gutsy/wiki",
-    "dashboard": "https://gutsy.dev.io",
-    "monitoring": "https://cloudkick.com/a/gutsy",
-    "ticketing": "https://zendesk.example.com",
-    "continuous_integration": "https://gutsy-bb.example.com",
-    "continuous_deployment": "https://gutsy-dreadnot.example.com",
-    "logging": "https://gutsy-log.example.com",
-    "chat": "irc://irc.server.net:4443/roomname?PASSWORD"
+    "Code": "https://github.example.com/gutsy/gutsy",
+    "Docs": "https://github.example.com/gutsy/gutsy/wiki",
+    "Dashboard": "https://gutsy.dev.io",
+    "Monitoring": "https://cloudkick.com/a/gutsy",
+    "Ticketing": "https://zendesk.example.com",
+    "Continuous_integration": "https://gutsy-bb.example.com",
+    "Continuous_deployment": "https://gutsy-dreadnot.example.com",
+    "Logging": "https://gutsy-log.example.com",
+    "Chat": "irc://irc.server.net:4443/roomname?PASSWORD"
   },
   "environments": [
     {
@@ -103,7 +105,7 @@
         "host": "www.v1host.com",
         "port": 443,
         "name": "PROJECT",
-        "project": 42,
+        "project": [0, 1, 2, 3, 5, 8, 13, 21, 34],
         "auth": "user:pass"
     },
     "github": {
